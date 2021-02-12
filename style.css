@@ -1,0 +1,63 @@
+body{
+    margin: 25px 25px;
+    background-color: #6f9a96 ;
+  }
+
+  h1{
+    font-family: sans-serif;
+    
+  }
+
+  h3{
+    clear: both;
+    padding: 40px;
+    
+  }
+
+  div p{
+    font: 100;
+    font-size: 15px;
+    font-family: monospace; 
+    width: 70%;   
+    margin: 50px 50px;
+    float: left;
+  }
+  
+  em{
+    font-size: 20px;
+    color: #475550;
+    font-weight: 700;
+  }
+
+  .skills{
+    font-size: 16px;
+    margin: 30px 30px;
+    clear: both;
+  }
+
+  .featured{
+    font-size: 1.3em;
+  }
+
+  .picture img{
+    width: 200px;
+    border: 2px solid blue;
+    border-radius: 100%;
+    padding: 10px 10px;
+    background-color: darkcyan;
+    float: right;
+  }
+
+
+  .name{
+    text-align: center;
+  }
+  
+  .ímpar{
+   
+    text-decoration: underline;
+    font-family: cursive;
+    color: blue;
+  }
+
+  
